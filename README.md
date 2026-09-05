@@ -37,7 +37,7 @@ pip (Python package manager)
 Installation
 Clone the repository:
 bash
-   git clone https://github.com/hari699/Python_playwright.git
+   git clone 
    cd Python_playwright
 Create a virtual environment:
 bash
