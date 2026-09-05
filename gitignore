@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+env.bak/
+venv.bak/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+.pytest_cache
+.nose*
+coverage.xml
+*.cover
+.pytest-cache/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Screenshots & Test Artifacts
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.gif
+videos/
+test_results/
+artifacts/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-workspace
+*.sublime-project
+.atom/
+.vimrc
+.vim/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+secrets.txt
+
+# OS
+.DS_Store
+Thumbs.db
+.gitignore~
+*.bak
+*.tmp
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.swp
+*.swo
+*~
+.~*
+tmp/
+temp/
+
+# Node (if using npm for Playwright)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Project specific (uncomment if needed)
+# config/secrets.json
+# credentials.json
+# test_data/sensitive_data.json
